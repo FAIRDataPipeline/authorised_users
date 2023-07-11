@@ -4,5 +4,6 @@ users:
   fullname: Ryan Field
   orgs: [UofG]
 - username: richardreeve
-  fullname: "Richard Reeve"
+  fullname: Richard Reeve
+  email: richard.reeve@glasgow.ac.uk
   orgs: [UofG]
