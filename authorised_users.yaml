@@ -40,7 +40,6 @@ users:
   fullname: Thomas Mansfield
   orgs: [PML]
 - username: amanning9
-  email: alexander.manning@stfc.ac.uk
   fullname: Alex Manning
   orgs: [STFC]
 - username: NeilBrummitt
