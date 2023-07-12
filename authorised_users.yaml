@@ -15,3 +15,7 @@ users:
   fullname: Meghna Asthana
   email: masthana@turing.ac.uk
   orgs: [ATI]
+- username: tpepler
+  email: tpepler@posteo.net
+  fullname: Theo Pepler
+  orgs: [UofG]
