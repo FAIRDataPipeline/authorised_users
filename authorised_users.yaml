@@ -7,87 +7,10 @@ users:
   fullname: Richard Reeve
   email: richard.reeve@glasgow.ac.uk
   orgs: [UofG]
-- username: claireh93
-  fullname: Claire Harris
-  email: claire.harris@bioss.ac.uk
-  orgs: [Bioss]
-- username: asthanameghna
-  fullname: Meghna Asthana
-  email: masthana@turing.ac.uk
-  orgs: [ATI]
-- username: tpepler
-  fullname: Theo Pepler
-  orgs: [UofG]
-- username: dch1fc
-  email: fatima.chami@stfc.ac.uk
-  fullname: Fatima Chami
-  orgs: [STFC]
-- username: HughesAG
-  email: aghug@bgs.ac.uk
-  fullname: Andrew Hughes
-  orgs: [BGS]
-- username: joazaw
-  email: joanna.zawadzka@Cranfield.ac.uk
-  fullname: Joanna Zawadzka
-  orgs: [Cranfield]
-- username: iamakpan
-  email: archibong.akpan@subjecttoclimate.org
-  fullname: Archibong Akpan
-  orgs: [STC]
-- username: TomAkaTma
-  email: tma@pml.ac.uk
-  fullname: Thomas Mansfield
-  orgs: [PML]
-- username: amanning9
-  fullname: Alex Manning
-  orgs: [STFC]
-- username: NeilBrummitt
-  email: n.brummitt@nhm.ac.uk
-  fullname: Neil Brummitt
-  orgs: [NHM]
-- username: dwest77a
-  email: daniel.westwood@stfc.ac.uk
-  fullname: Daniel Westwood
-  orgs: [STFC]
-- username: mayank-singh-sikarwar
-  email: M.Sikarwar@beatson.gla.ac.uk
-  fullname: Mayank Singh Sikarwar
-  orgs: [UofG]
-- username: benscott
-  email: ben@benscott.co.uk
-  fullname: Ben Scott
-  orgs: [NHM]
-- username: miravayuson
-  email: m.yuson.1@research.gla.ac.uk
-  fullname: Mirava Yuson
-  orgs: [UofG]
-- username: rendzina
-  email: s.hallett@cranfield.ac.uk
-  fullname: Steve Hallett
-  orgs: [Cranfield]
-- username: 96YAOFU
-  email: fuy49@cardiff.ac.uk
-  fullname: Yao Fu
-  orgs: [Cardiff]
-- username: deepesh-sherwal-surrey
-  email: ds01502@surrey.ac.uk
-  fullname: Deepesh Kumar Sherwal
-  orgs: [Surrey]
 - username: LiamPattinson
   email: liam.pattinson@york.ac.uk
   fullname: Liam Pattinson
   orgs: [York]
-- username: Ak03091
-  email: ak03091@surrey.ac.uk
-  fullname: Amandeep Kaur
-  orgs: [Surrey]
-- username: ACAraujo66
-  email: A.Araujo@nhm.ac.uk
-  fullname: Ana Claudia Araujo
-  orgs: [NHM]
-- username: acocac
-  fullname: Alejandro Coca-Castro
-  orgs: [ATI]
 - username: B0SKAMP
   fullname: Bram Boskamp
   orgs: [Bioss]
